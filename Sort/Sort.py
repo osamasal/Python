@@ -2,6 +2,7 @@ import random
 import sys
 import datetime
 
+
 def BubbleSort(list):
     changed = 1
 

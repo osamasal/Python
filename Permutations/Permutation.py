@@ -1,6 +1,7 @@
 import sys
 import os
 
+
 def GetItem(list):
     if len(list) == 1:
         return [list]

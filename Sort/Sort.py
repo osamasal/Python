@@ -73,7 +73,7 @@ def Merge(first_list, second_list):
 
     return resulting_list
 
-print('Enter a postive number: ')
+print('Enter a positive number: ')
 input_number = sys.stdin.readline()
 input_list = []
 

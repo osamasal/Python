@@ -27,7 +27,7 @@ def ListPermutation (list):
 
         return list_of_lists
 
-print('Enter a potive number: ')
+print('Enter a postive number: ')
 input_number = sys.stdin.readline()
 input_list = []
 
